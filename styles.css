@@ -1,0 +1,113 @@
+body {
+  background-color: #eeeff1;
+  padding: 12px;
+  font-family: Arial, sans-serif;
+  margin: 0px auto;
+}
+
+.header-name {
+  vertical-align: super;
+}
+
+nav {
+  text-align: right;
+  margin-top: -42px;
+  padding-right: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+  font-size: 18px;
+  opacity: 0.7;
+  font-weight: 500;
+  cursor: pointer;
+  margin: 20px;
+}
+
+.link-three {
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 700;
+  padding: 15px;
+  border-radius: 8px;
+  width: 130px;
+  cursor: pointer;
+}
+
+.main-one,
+.main-two {
+  display: flex;
+  padding-bottom: 10px;
+}
+
+.main-two {
+  margin-top: -70px;
+  padding: 3px;
+}
+
+.introduction {
+  margin-left: 20px;
+  font-size: 25px;
+  line-height: 39px;
+}
+
+h1 {
+  display: block;
+  font-size: 1.8em;
+  margin: 100px 0 15px;
+  line-height: 40px;
+  font-weight: 600;
+}
+
+.main-two-heading {
+  font-size: 2em;
+  font-weight: 800;
+}
+
+.paragraph-one {
+  font-size: 25px;
+}
+
+.paragraph-two {
+  margin-bottom: 50px;
+  opacity: 1;
+  color: #000000;
+  font-size: 18px;
+  line-height: 32px;
+  font-weight: 500;
+}
+
+.main-two-left {
+  width: 54%;
+}
+
+.main-two-right {
+  padding-right: 40px;
+  margin-top: 150px;
+  margin-left: 20px;
+  display: flex;
+}
+
+.skillset {
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border: 1px solid #ced1df;
+  border-radius: 8px;
+  background-color: #eeeff1;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  opacity: 1;
+  color: #000;
+  font-size: 16px;
+  line-height: 39px;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
+img {
+  border-radius: 7px;
+}
